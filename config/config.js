@@ -1,12 +1,12 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "晏远庭",
+    name: "YAN",
     sex: "男",
     age: "26",
-    phone: "18011026824",
+    phone: "",
     email: "yyt2017@aliyun.com",
-    address: "现居四川省成都市",
-    qq: "1623244310",
+    address: "chengdu",
+    qq: "",
     log: "IBike",
     excpect_work: "运维/技术支持",
 
